@@ -1,5 +1,3 @@
-# Professional Bio 🚀
-
 ## Who Am I? 👨‍💻
 Full-stack developer by day, batch processing wizard by night, and now diving headfirst into the AI/ML rabbit hole! 🤖 I love building things that work seamlessly and handle data like a boss.
 
